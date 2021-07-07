@@ -10,7 +10,8 @@
     
     
     min-height: 100vh;
-        background: linear-gradient(#2b1055,#7597de)
+    background: linear-gradient(#080e5e,#6c91e0);
+    background-attachment: fixed;
     }
     
     header{
@@ -66,4 +67,183 @@
         ul li a:hover{
          background: #fff;
             color: #2b1055;
+        }
+
+
+
+
+
+
+
+        .noticias1{
+            display: flex;
+            width: 100%;
+            margin-bottom: 30px;
+            padding: 30px;
+        }
+        .noticias1 img{
+            width: 30%;
+            margin-left: 2%;
+        }
+        .noticias1_div {
+            width: 40%;
+            margin-top: 4%;
+            margin-left: 5%;
+        }
+        .noticias1_div h2{
+            text-align: center;
+        }
+        .noticias1_div p{
+            margin-top:2%;
+        }
+        
+        .noticias2{
+            display: flex;
+            width: 100%;
+            flex-direction: row-reverse;
+            margin-bottom: 30px;
+        }
+        .noticias2 img{
+            width: 30%;
+            margin-right: 2%;
+        }
+        .noticias2_div {
+            width: 40%;
+            margin-top: 2%;
+            margin-right: 5%;
+        }
+        .noticias2_div h2{
+            text-align: center;
+        }
+        .noticias2_div p{
+            margin-top:10px;
+        }
+        
+        .noticias3{
+            display: flex;
+            width: 100%;
+            margin-bottom: 30px;
+        }
+        .noticias3 img{
+            width: 30%;
+            margin-left: 2%;
+        }
+        .noticias3_div {
+            width: 40%;
+            margin-top: 2%;
+            margin-left: 5%;
+        }
+        .noticias3_div h2{
+            text-align: center;
+        }
+        .noticias3_div p{
+            margin-top:2%;
+        }
+        
+        .noticias4{
+            display: flex;
+            width: 100%;
+            flex-direction: row-reverse;
+            margin-bottom: 30px;
+        }
+        .noticias4 img{
+            width: 30%;
+            margin-right: 2%;
+        }
+        .noticias4_div {
+            width: 40%;
+            margin-top: 2%;
+            margin-right: 5%;
+        }
+        .noticias4_div h2{
+            text-align: center;
+        }
+        .noticias4_div p{
+            margin-top:10px;
+        }
+        
+        .noticias5{
+            display: flex;
+            width: 100%;
+            margin-bottom: 30px;
+        }
+        .noticias5 img{
+            width: 30%;
+            margin-left: 2%;
+        }
+        .noticias5_div {
+            width: 40%;
+            margin-top: 1%;
+            margin-left: 5%;
+        }
+        .noticias5_div h2{
+            text-align: center;
+        }
+        .noticias5_div p{
+            margin-top:2%;
+        }
+        
+        .noticias6{
+            display: flex;
+            width: 100%;
+            flex-direction: row-reverse;
+            margin-bottom: 30px;
+        }
+        .noticias6 img{
+            width: 30%;
+            margin-right: 2%;
+        }
+        .noticias6_div {
+            width: 40%;
+            margin-top: 4%;
+            margin-right: 5%;
+        }
+        .noticias6_div h2{
+            text-align: center;
+        }
+        .noticias6_div p{
+            margin-top:10px;
+        }
+        
+        .noticias7{
+            display: flex;
+            width: 100%;
+            margin-bottom: 30px;
+        }
+        .noticias7 img{
+            width: 30%;
+            margin-left: 2%;
+        }
+        .noticias7_div {
+            width: 40%;
+            margin-top: 3%;
+            margin-left: 5%;
+        }
+        .noticias7_div h2{
+            text-align: center;
+        }
+        .noticias7_div p{
+            margin-top:2%;
+        }
+        
+        
+         
+        h2 {
+            color:rgb(255, 230, 0);
+        }
+       
+        
+        p{
+            color: white;
+        }
+
+        img{
+            border-style: solid;
+            border-color:rgb(255, 230, 0) ;
+            transition: width .7s,height .7s;
+        }
+        img:hover{
+
+            width: 32%;
+            
         }

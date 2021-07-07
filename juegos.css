@@ -10,7 +10,8 @@
     
     
     min-height: 100vh;
-        background: linear-gradient(#2b1055,#7597de)
+    background: linear-gradient(#2b1055,#7597de);
+    background-attachment: fixed;
     }
     
     
@@ -64,3 +65,205 @@
          background: #fff;
             color: #2b1055;
         }
+
+
+/* body */
+
+
+
+
+.Popular1{
+    display:flex;
+    width:100%;
+    margin-left: 2%;
+    padding-top: 2%;
+    }
+    .Popular1 h2{
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .Popular_texto{
+    width:40%;
+    margin-left:30px;
+    margin-top: 5%;
+    }
+    
+    .Popular1 img{
+    width:30%;
+    transition: width .7s,height .7s;
+    }
+    .Popular1 img:hover{
+        width: 32%;
+
+    }
+    
+    /* POPULAR 2 */
+    
+    .Popular2{
+    display:flex;
+    width:100%;
+    flex-direction: row-reverse;
+    margin-top:20px;
+    }
+    .Popular2 h2{
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    
+    .Popular2_txt{
+    width:40%;
+    margin-right:30px;
+    margin-top: 4%;
+    }
+    
+    
+    
+    .Popular2 img{
+    width:30%;
+    margin-right: 2%;
+    
+    }
+    
+    /* POPULAR 3 */
+    
+    .popular3{
+    display:flex;
+    width:100%;
+    margin-top:20px;
+    margin-left: 2%;
+    }
+    .popular3 h2{
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    
+    .Popular3_txt{
+    width:30%;
+    margin-left:30px;
+    margin-top: 3% ;
+    }
+    
+    .popular3 img{
+    width:30%;
+    
+    }
+    
+    /* POPULAR 4 */
+    
+    .popular4{
+    display:flex;
+    flex-direction: row-reverse;
+    width:100%;
+    }
+    .popular4 h2{
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .popular4_txt{
+    width:30%;
+    margin-right:30px;
+    margin-top:4% ;
+    
+    }
+    
+    .popular4 img{
+    width:29%;
+    height:250px;
+    margin-right: 2%;
+    
+    }
+    
+    
+    /* POPULAR 5 */
+    
+    .popular5{
+    display:flex;
+    width:100%;
+    margin-left: 2%;
+    }
+    .popular5 h2{
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .popular5_txt{
+    width:40%;
+    margin-left:30px;
+    margin-top:4% ;
+    }
+    
+    .popular5 img{
+    width:30%;
+    
+    }
+    
+    
+    
+    /* POPULAR 6 */
+    
+    .popular6{
+    display:flex;
+    flex-direction:row-reverse;
+    width:100%
+    }
+    .popular6 h2{
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .popular6_txt{
+    width:40%;
+    margin-right:30px;
+    margin-top:4% ;
+    
+    }
+    
+    .popular6 img{
+    width:30%;
+    margin-right: 2%;
+    
+    }
+    
+    /* POPULAR 7 */
+    .popular7{
+    display:flex;
+    width:100%;
+    margin-left: 2%;
+    margin-bottom: 40px;
+    }
+    .popular7 h2{
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .popular7_txt{
+    width:40%;
+    margin-left:30px;
+    margin-top:5% ;
+    }
+    
+    .popular7 img{
+    width:30%;
+    }
+    
+    
+    
+    
+    h2 {
+        color: rgb(245, 14, 6);
+    }
+    
+
+        
+    p {
+        color: white;
+    }
+
+
+    img{
+        border-style: solid;
+        border-color: rgb(245, 14, 6);
+        transition: width .7s,height .7s;
+    }
+
+img:hover{
+
+    width: 32%;
+}

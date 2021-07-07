@@ -90,7 +90,7 @@
     bottom: 0;
     width: 100%;
     height: 100px;
-    background: linear-gradient(to top,#2b4b91,transparent );
+    background: linear-gradient(to top,#2b4b91,transparent);
     z-index: 10000;
     }
     
@@ -126,15 +126,17 @@
         width:210px;
         height:210px;
         position: absolute;
-        left: 80%;    
+        left: 80%; 
+        top: 25%;   
     }
     
         .parte2__div-img1{
             
-            width: 280px;;
+            width: 310px;
             height: 210px;
             position:absolute;
-            left: 50%;
+            left: 45%;
+            top:25%
         }
             
     
@@ -172,11 +174,247 @@
                             
     .parte2{
         background-color: #2b4b91;
+      height: 60%;
     }
     .bt{
         background-color: #2b4b91;
     }
     
+
+.letra1{
+    font-family: 'Permanent Marker', cursive;
+color: rgb(108, 245, 55);
+font-size: 300%;
+}
+
+    
+.parrafo_{
+height: 40%;
+
+background-color:#2b4b91 ;
+
+}
+
+.parrafo_0{
+
+border-bottom:4px solid rgb(0, 255, 55) ;
+border-top: 4px solid rgb(0, 255, 55) ;
+padding-top: 6%;
+padding-bottom: 6%;
+
+}
+
+
+
+.parrafo_1{
+width: 50%;
+color: white;
+
+}
+
+.png_1{
+    width: 350px;
+    height: 350px;
+position: absolute;
+left: 58%;
+top: 20%;
+}
+
+
+
+
+
+.letra_2{
+    font-family: 'Permanent Marker', cursive;
+    color: rgb(230, 238, 115);
+    font-size: 300%;
+text-align: right;
+padding-bottom: 2%;
+}
+
+.parrafo_2{
+    width: 50%;
+color: white;
+position:relative;
+left: 50%;
+top: 35%;
+}
+.png_2{
+width: 450px;
+height: 450px;
+position:absolute;
+left: 10%;
+top: 20%;
+
+}
+
+
+.parrafo_20{
+    height:500px;
+    background-color:#2b4b91 ;
+}
+
+.parrafo_21{
+border-bottom:5px solid rgb(230, 238, 115);
+border-top: 5px solid rgb(230, 238, 115);
+padding-top: 8%;
+padding-bottom: 8%;
+
+}
+
+/* jegwnnuiewguiweguighbewuigeuyigbuigeewuigeuoigeuigheuigewgewg */
+
+
+.parte3__div-h2{
+    font-size:60px;
+    font-family: 'Permanent Marker', cursive;
+    color:rgb(255, 0, 0);
+    margin-top:30px;
+    }
+    
+    
+    .parte3__div-p{
+    font-size:18px;
+    font-family:'Noto Sans JP', sans-serif;
+    color:white;
+    margin-top:20px;
+    margin-bottom:20px ;
+    }
+    
+    .parte3__div{
+    width:100%;
+    height:570PX;
+    text-align: center;
+    margin-left:3px;
+    border-top: 5px solid rgb(255, 0, 0);
+     border-bottom:5px solid rgb(255, 0, 0);
+    }
+    
+    
+    .parte3__div-div-img{
+    width:380px;
+    height:280px;
+    margin-left:10px;
+    transition: width .7s,height .7s;
+    position: absolute;
+    left: 5%;
+    top: 40%;
+
+    }
+    
+    
+    .parte3__div-div-img:hover{
+    width:390px;
+    height:290px;
+    box-shadow:0 0 15px white
+    }
+    
+  
+    
+    
+    .parte3__div-div-img2{
+    width:380px;
+    height:280px;
+    margin-left:10px;
+    transition: width .7s,height .7s;
+    position: absolute;
+    left: 36%;
+top: 40%;
+    }
+    
+    .parte3__div-div-img2:hover{
+    width:390px;
+    height:290px;
+    box-shadow: 0 0 15px white;
+    }
+    
+    .parte3__div-div-img3{
+    width:380px;
+    height:280px;
+    margin-left:10px;
+    transition: width .7s,height .7s;
+   position: absolute;
+   left: 67%;
+   top: 40%;
+    }
+    
+    
+    .parte3__div-div-img3:hover{
+    width:390px;
+    height:290px;
+    box-shadow:0 0 15px white;
+    } 
+
+    .parte3{
+        background-color:#2b4b91 ;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
