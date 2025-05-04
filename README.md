@@ -9,12 +9,24 @@
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
+
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
+<table>
+  <tr>
+    <td>
+
+- A passionate Self-taught Front-end developer  
+- Playing CTF's at spare time  
+- Currently learning Web Development by Self  
+- Personal website [link](https://www.0xabdulkhalid.ml)  
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+
+    </td>
+    <td>
+      <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="350"/>
+    </td>
+  </tr>
+</table>
 
 <br><br>
