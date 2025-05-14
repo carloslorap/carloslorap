@@ -44,7 +44,6 @@
 - 🚀 Apasionado por crear soluciones digitales desde cero	
 - 🧠 Autodidacta en constante aprendizaje
 - 🌐 Mi sitio web: [Portafolio online](https://portafolio-eosin-psi.vercel.app/)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
 
     </td>
     <td>
@@ -92,6 +91,8 @@
   <img src="https://devicon-website.vercel.app/api/vuejs/original.svg"  height="40" alt="vue logo" ></img>
   <img width="12" />
   <img src="https://devicon-website.vercel.app/api/angularjs/original.svg" height="40" alt="angular logo" ></img>
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/csharp/original.svg" height="40" alt="c# logo"></img>	
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
